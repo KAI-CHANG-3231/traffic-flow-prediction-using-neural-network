@@ -22,7 +22,7 @@ This project focuses on traffic flow prediction using neural networks. It demons
 * Model Evaluation：使用 MAE、MSE、RMSE 等指標評估模型預測誤差。
 * Visualization：視覺化實際交通流量與模型預測結果。
 
-## 預計使用技術
+## 使用技術
 
 * Python
 * Pandas
@@ -32,7 +32,7 @@ This project focuses on traffic flow prediction using neural networks. It demons
 * Matplotlib
 * Jupyter Notebook
 
-## 建議專案流程
+## 專案流程
 
 1. 載入交通流量資料集。
 2. 檢查資料欄位、時間欄位與缺失值。
